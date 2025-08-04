@@ -4,6 +4,8 @@
 To build a machine learning model that classifies hand gestures from grayscale images using Convolutional Neural Networks (CNNs). These gestures can be used for applications like human-computer interaction, sign language interpretation, and gesture-controlled interfaces.
 The final system can be extended for real-time gesture detection using webcam input, making it a foundation for more interactive and intelligent systems.
 
+## 📁 Dataset: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+
  🧠**Model Architecture** (CNN):
 * Used a Sequential CNN model with:
 * Two convolutional layers with max pooling
