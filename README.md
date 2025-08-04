@@ -1,4 +1,4 @@
-🖐️# **Hand Gesture Recognition** 
+# 🖐️Hand Gesture Recognition using CNN
 
 🔍 **Overview**:
 To build a machine learning model that classifies hand gestures from grayscale images using Convolutional Neural Networks (CNNs). These gestures can be used for applications like human-computer interaction, sign language interpretation, and gesture-controlled interfaces.
